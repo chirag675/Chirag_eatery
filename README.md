@@ -234,7 +234,6 @@ Track my order
 ## Chirag Verma
 
 - LinkedIn: https://linkedin.com/in/chiragverma565
-- GitHub: https://github.com/your-github-username
 
 ---
 
